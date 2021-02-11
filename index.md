@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+SpaceShare is becoming a mobile application that will help therapists to maximize their office space.  With SpaceShare, therapists can easily rent out their office space whenever they are not using it. Likewise, SpaceShare makes it easy for therapists to pick up office space day to day, as needed.
 
-You can use the [editor on GitHub](https://github.com/SpaceShareapp/InitialBasic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+SpaceShare strives to create a transparent and respectful private-office networking system. Our platform will include user profiles, images and detailed listings of each space. User rating systems and badges will ensure accountability and cleanliness between users.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SpaceShare offers discounts for both Early Adopters and referrals.  Become an Early Adopter and receive transaction discounts.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+**Survey and Sign up**
 
-# Header 1
-## Header 2
-### Header 3
+If you have space that you would like to rent out: https://docs.google.com/forms/d/e/1FAIpQLSd6Qe1vuo4A4eFX42wHhHLlV6PeVPiwKcgyqaGrH9dTskQDfA/viewform?usp=sf_link
 
-- Bulleted
-- List
+If you would like to rent space day to day: 
+https://docs.google.com/forms/d/e/1FAIpQLScnU1knTwbLUDwMyg1Z12ab0mA0H2riJeQDiXUOEnTcCeJWVw/viewform?usp=sf_link
 
-1. Numbered
-2. List
+We would love to hear from you! Email us at: Contact@Spaceshareapp.com
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SpaceShareapp/InitialBasic/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
